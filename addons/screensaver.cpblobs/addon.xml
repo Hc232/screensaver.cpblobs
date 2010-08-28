@@ -11,8 +11,8 @@
     point="xbmc.ui.screensaver"
     library_windx="cpBlobs_win32dx.xbs" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">cpBlobs</summary>
-    <description lang="en">cpBlobs</description>
+    <summary lang="en">Metaballs moving around</summary>
+    <description lang="en">cpBlobs is a screensaver displaying metaballs moving around inside a cube.</description>
     <platform>windx</platform>
   </extension>
 </addon>
